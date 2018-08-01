@@ -1,0 +1,115 @@
+@font-face {
+	font-family: 'Dosis-SemiBold';display: block;
+	src: url('../fonts/dosis/Dosis-SemiBold.eot');
+	src: url('../fonts/dosis/Dosis-SemiBold.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/dosis/Dosis-SemiBold.woff2') format('woff2'),
+	url('../fonts/dosis/Dosis-SemiBold.woff') format('woff'),
+	url('../fonts/dosis/Dosis-SemiBold.ttf') format('truetype'),
+	url('../fonts/dosis/Dosis-SemiBold.svg#Dosis-SemiBold') format('svg');
+	font-weight: 600;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Dosis-Regular';
+	src: url('../fonts/dosis/Dosis-Regular.eot');
+	src: url('../fonts/dosis/Dosis-Regular.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/dosis/Dosis-Regular.woff2') format('woff2'),
+	url('../fonts/dosis/Dosis-Regular.woff') format('woff'),
+	url('../fonts/dosis/Dosis-Regular.ttf') format('truetype'),
+	url('../fonts/dosis/Dosis-Regular.svg#Dosis-Regular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Dosis-Bold';
+	src: url('../fonts/dosis/Dosis-Bold.eot');
+	src: url('../fonts/dosis/Dosis-Bold.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/dosis/Dosis-Bold.woff2') format('woff2'),
+	url('../fonts/dosis/Dosis-Bold.woff') format('woff'),
+	url('../fonts/dosis/Dosis-Bold.ttf') format('truetype'),
+	url('../fonts/dosis/Dosis-Bold.svg#Dosis-Bold') format('svg');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Dosis-ExtraLight';
+	src: url('../fonts/dosis/Dosis-ExtraLight.eot');
+	src: url('../fonts/dosis/Dosis-ExtraLight.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/dosis/Dosis-ExtraLight.woff2') format('woff2'),
+	url('../fonts/dosis/Dosis-ExtraLight.woff') format('woff'),
+	url('../fonts/dosis/Dosis-ExtraLight.ttf') format('truetype'),
+	url('../fonts/dosis/Dosis-ExtraLight.svg#Dosis-ExtraLight') format('svg');
+	font-weight: 200;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Dosis-Light';
+	src: url('../fonts/dosis/Dosis-Light.eot');
+	src: url('../fonts/dosis/Dosis-Light.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/dosis/Dosis-Light.woff2') format('woff2'),
+	url('../fonts/dosis/Dosis-Light.woff') format('woff'),
+	url('../fonts/dosis/Dosis-Light.ttf') format('truetype'),
+	url('../fonts/dosis/Dosis-Light.svg#Dosis-Light') format('svg');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Dosis-Medium';
+	src: url('../fonts/dosis/Dosis-Medium.eot');
+	src: url('../fonts/dosis/Dosis-Medium.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/dosis/Dosis-Medium.woff2') format('woff2'),
+	url('../fonts/dosis/Dosis-Medium.woff') format('woff'),
+	url('../fonts/dosis/Dosis-Medium.ttf') format('truetype'),
+	url('../fonts/dosis/Dosis-Medium.svg#Dosis-Medium') format('svg');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Dosis-ExtraBold';
+	src: url('../fonts/dosis/Dosis-ExtraBold.eot');
+	src: url('../fonts/dosis/Dosis-ExtraBold.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/dosis/Dosis-ExtraBold.woff2') format('woff2'),
+	url('../fonts/dosis/Dosis-ExtraBold.woff') format('woff'),
+	url('../fonts/dosis/Dosis-ExtraBold.ttf') format('truetype'),
+	url('../fonts/dosis/Dosis-ExtraBold.svg#Dosis-ExtraBold') format('svg');
+	font-weight: 800;
+	font-style: normal;
+}
+/*=============================================
+=            Section comment block            =
+=============================================*/
+.header ul li a{
+	margin: 20px 10px;
+	color: #222222 !important;
+	font-family: 'Dosis-SemiBold';
+	font-size: 14px;
+}
+
+/*=====  End of Section comment block  ======*/
+
+/*====================================
+=            HERO-SECTION            =
+====================================*/
+.hero-section{
+	background-image:url(../assets/images/bg1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.hero-section__list-item li i{
+	float: left;
+	width: 5%;
+	color: #8d8d8d;
+}
+.hero-section img{
+	width:410px;
+
+}
+
+
+/*=====  End of HERO-SECTION  ======*/
